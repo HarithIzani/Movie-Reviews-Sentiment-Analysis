@@ -1,0 +1,1 @@
+The dataset will be included when the script runs nltk.download() function
